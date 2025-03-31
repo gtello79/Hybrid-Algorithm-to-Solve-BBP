@@ -1,6 +1,6 @@
-# Multiple Container Loading Problem using Bin Packing Problem
+# Hybrid Algorithm to Solve 3D-BBP
  
-In this work we plan to solve the MCLP by combining two algorithms:a  state-of-the-art  beam-search-based  algorithm  for  solving  the  single  CLPfrom a set of defined boxes, and a bin-packing algorithm for selecting andswapping boxes among the containers
+In this work we plan to solve the 3D Bin Packing Problem by combining two algorithms:a  state-of-the-art beam-search-based algorithm for solving the single CLP from a set of defined boxes, and a bin-packing algorithm for selecting andswapping boxes among the containers
 
 ## Dataset
 
