@@ -1,6 +1,7 @@
 # Hybrid Algorithm to Solve 3D-BBP
  
-In this work we plan to solve the 3D Bin Packing Problem by combining two algorithms:a  state-of-the-art beam-search-based algorithm for solving the single CLP from a set of defined boxes, and a bin-packing algorithm for selecting andswapping boxes among the containers
+In this work we plan to solve the 3D Bin Packing Problem by combining two algorithms:a  state-of-the-art beam-search-based algorithm for solving the single CLP from a set of defined boxes, and a bin-packing algorithm for selecting andswapping boxes among the containers. To Run a singles test, it's possible access to the file ResultsTest.ipynb for execute the algorithm selecting a dataset collection.
+
 
 ## Dataset
 
